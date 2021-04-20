@@ -6,10 +6,11 @@
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, fade-out($white, 0.9) 0%, fade-out($white, 0.9) 100%), url('../img/bg-masthead.jpg');
+  background: linear-gradient(90deg,rgba(255,255,255,.1) 0,#947721b3 100%),url(../img/bg-masthead_wall.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  color: azure;
   h1 {
     font-size: 4rem;
     margin: 0;
